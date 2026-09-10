@@ -1,58 +1,70 @@
 # ANNÉE 2160 LA FIN DU MONDE
-** TEMPS RESTANT 134 ANNÉES
+## TEMPS RESTANT 134 ANNÉES
 **Série 1**
 **Auteur T Ub Ld**
 ## PRÉFACE
-Ce petit livre annonce à l’être humain de l’année 2026 que son histoire prendra fin en 2160. Plus précisément, il affirme que l’expérience de la victoire de l’humanité sur sa déchéance s’achèvera cette année-là. Il reste donc 134 ans entre 2026 et 2160.
-Il poursuit trois objectifs :
+Ce petit livre annonce à l’être humain de l’année 2026 que son histoire prendra fin en 2160. Plus précisément, il affirme que l’expérience de la victoire de l’humanité sur sa déchéance s’achèvera cette année-là. 
+Il restent donc 134 ans entre 2026 et 2160.
+Le livre poursuit trois objectifs :
 1.	exposer les calculs qui conduisent aux nombres 134 et 2160 ;
 2.	formuler un avertissement et un appel à la sagesse ;
 3.	inviter l’être humain à la sagesse et, s’il tient compte de cet avertissement, à une attente heureuse.
-L’argumentation prend pour base les nombres bibliques associés aux jours, mois et années. Elle s’appuie également sur des principes anciens et actuels selon lesquels il existe dans la nature des lois qui ne changent pas : le temps, le poids constant de la Terre, ainsi que la conservation de la masse, de l’énergie et de l’intelligence.
+L’argumentation prend pour base les nombres bibliques associés aux jours, mois et années.
+Elle s’appuie également sur des principes anciens et actuels selon lesquels il existe dans la nature des lois qui ne changent pas : le temps, le poids constant de la Terre, ainsi que la conservation de la masse, de l’énergie et de l’intelligence.
 Dans la vie humaine, rien n’est aléatoire, anodin, arbitraire ou même soudain ; les événements sont seulement perçus comme tels.
-Ce petit livre est destiné à faire partie d’une série consacrée à plusieurs sujets connexes. Ces sujets sont connexes parce que tout est en relation et que rien n’est le produit du hasard. Comme l’affirmait un sage de l’Antiquité, « tout est pensée » (all is mind). La pensée, comme toute chose dans ce monde, obéit aux lois de l’amour, qui sont les mêmes pour tout ce qui existe. L’intellect appartient au même monde et obéit, en réalité, aux mêmes lois que la matière, par exemple le marbre. C’est pourquoi on dit que certains mots « resteront gravés dans le marbre ». La pensée, les mots, les écrits et le marbre sont donc directement reliés dans notre univers.
+Ce petit livre est destiné à faire partie d’une série consacrée à plusieurs sujets connexes. Ces sujets sont connexes parce que tout est en relation et que rien n’est le produit du hasard. Comme l’affirmait un sage de l’Antiquité, « tout est pensée » (all is mind).
+La pensée, comme toute chose dans ce monde, obéit aux lois (de l’amour), qui sont les mêmes pour tout ce qui existe. L’intellect appartient au même monde et obéit, comme le marbre, en réalité, aux mêmes lois que la matière. C’est pourquoi on dit que certains mots **resteront gravés dans le marbre**.
+La pensée, les mots, les écrits et le marbre sont donc directement reliés dans notre univers.
 Les nombres, de même que l’algèbre et la géométrie, obéissent eux aussi aux règles de l’univers.
-Le niveau de ce livre ne prétend pas éliminer complètement le bruit. Il cherche à séparer le signal du bruit en s’appuyant sur la magnitude et la reproductibilité, afin d’aboutir à une confirmation robuste.
-Corpus numérique initial
-Les passages suivants constituent le corpus de départ. Les traductions sont présentées comme des traductions littérales de l’auteur.
-•	Jérémie 31,31-34 : « Voici, des jours viennent, et je conclus avec la maison d’Israël et la maison de Juda une alliance nouvelle […] car voici l’alliance conclue avec la maison d’Israël après ces jours : je place mes lois au milieu d’eux et je les écris sur leur cœur […]. »
-•	Osée 6,2 : « Il nous rendra la vie en jours, et le troisième jour il nous relèvera, et nous vivrons devant sa face. »
-•	Nombres 14,34 : « Vous avez mis 40 jours pour explorer le pays ; vous supporterez donc les conséquences de vos fautes pendant 40 ans, une année pour chaque jour. »
-•	Genèse 5,22-24 : « Hénoch marcha avec Dieu 300 ans […] puis il ne fut plus là, car Dieu l’avait pris. »
-•	Matthieu 24,37-39 : « Ce qui arriva aux jours de Noé arrivera de même à l’avènement du Fils de l’homme. Dans les jours qui précédèrent le déluge, les hommes mangeaient et buvaient, se mariaient et mariaient leurs enfants, jusqu’au jour où Noé entra dans l’arche […]. »
-•	Genèse 6,15 : « […] 300 coudées pour la longueur de l’arche, 50 coudées pour sa largeur et 30 coudées pour sa hauteur. »
-•	Lévitique 25,8-10 : « Tu compteras sept sabbats d’années, sept fois sept années, et les jours de ces sept sabbats d’années feront quarante-neuf ans […]. Vous sanctifierez la 50e année et publierez la liberté dans le pays pour tous ses habitants […]. »
-•	Luc 3,23 : « Jésus avait environ 30 ans lorsqu’il commença son ministère […]. »
-•	Daniel 7,25 : « […] les saints seront livrés entre ses mains pendant un temps, des temps et la moitié d’un temps. »
-•	Apocalypse 11,2 : « […] elles fouleront aux pieds la ville sainte pendant quarante-deux mois. »
-•	Apocalypse 12,6 : « […] afin qu’elle y soit nourrie pendant mille deux cent soixante jours. »
-•	2 Pierre 3,11-13 : « Puisque toutes ces choses doivent se dissoudre, quelle ne doit pas être la sainteté de votre conduite et votre piété, tandis que vous attendez et hâtez l’avènement du jour de Dieu, à cause duquel les cieux enflammés se dissoudront et les éléments embrasés se fondront. Mais nous attendons, selon sa promesse, de nouveaux cieux et une nouvelle terre où la justice habitera. »
-•	Ésaïe 23,15-18 : « En ce jour, Tyr tombera dans l’oubli pendant soixante-dix ans, ce que dure la vie d’un roi. Au bout de soixante-dix ans, il en sera de Tyr comme de la prostituée dont parle la chanson : “Prends la harpe, parcours la ville, prostituée qu’on oublie ! Joue bien, répète tes chants, pour qu’on se souvienne de toi !” Au bout de soixante-dix ans, l’Éternel visitera Tyr, et elle retournera à son salaire impur ; elle se prostituera à tous les royaumes de la terre, sur la face du monde. Mais son gain et son salaire impur seront consacrés à l’Éternel ; ils ne seront ni entassés ni conservés, car son gain fournira à ceux qui habitent devant l’Éternel une nourriture abondante et des vêtements magnifiques. »
-•	Jérémie 25,11-12 : « Tout ce pays deviendra une ruine, un désert, et ces nations seront asservies au roi de Babylone pendant soixante-dix ans. Mais lorsque ces soixante-dix ans seront accomplis, je châtierai le roi de Babylone et cette nation, dit l’Éternel, à cause de leurs iniquités ; je punirai le pays des Chaldéens et j’en ferai des ruines éternelles. »
-•	Jérémie 29,10 : « Dès que soixante-dix ans seront écoulés pour Babylone, je me souviendrai de vous et j’accomplirai à votre égard ma bonne parole, en vous ramenant dans ce lieu. »
-•	2 Chroniques 36,21 : « Afin que s’accomplisse la parole de l’Éternel prononcée par la bouche de Jérémie, le pays jouit de ses sabbats et se reposa pendant tout le temps de sa dévastation, jusqu’à l’accomplissement de soixante-dix ans. »
-•	Daniel 9,2 : « La première année de son règne, moi, Daniel, je vis dans les livres qu’il devait s’écouler soixante-dix ans pour les ruines de Jérusalem, selon le nombre d’années dont l’Éternel avait parlé à Jérémie, le prophète. »
-Les chapitres suivants examinent ces nombres d’années, mois, jours, leurs relations et la conclusion chronologique que l’auteur en tire. La finalité pratique de l’ouvrage est d’inviter l’être humain à examiner sa vie à la lumière de la proximité supposée de la fin de l’univers actuel.
+Le niveau de ce livre ne prétend pas éliminer complètement le bruit ; il cherche le faire **en partie**. Séparer le signal du bruit en s’appuyant sur la magnitude et la reproductibilité, afin d’aboutir à une confirmation robuste.
+# Corpus numérique initial
+Les passages suivants constituent le corpus de départ. 
+Les traductions sont présentées comme des traductions littérales de l’auteur.
+•	Jérémie 31,31-34 : « Voici, **des jours viennent**, et je conclus avec la maison d’Israël et la maison de Juda une alliance nouvelle […] car voici l’alliance conclue avec la maison d’Israël après **ces jours** : je place mes lois au milieu d’eux et je les écris sur leur cœur […]. »
+•	Osée 6,2 : « Il nous rendra la vie **en jours**, et **le troisième jour** il nous relèvera, et nous vivrons devant sa face. »
+•	Nombres 14,34 : « Vous avez mis **40 jours** pour explorer le pays ; vous supporterez donc les conséquences de vos fautes pendant **40 ans**, une année pour chaque jour. »
+•	Genèse 5,22-24 : « Hénoch marcha avec Dieu **300** ans […] puis il ne fut plus là, car Dieu l’avait pris. »
+•	Matthieu 24,37-39 : « Ce qui arriva aux jours de Noé arrivera de même à l’avènement du Fils de l’homme. Dans **les jours** qui précédèrent le déluge, les hommes mangeaient et buvaient, se mariaient et mariaient leurs enfants, **jusqu’au jour** où Noé entra dans l’arche […]. »
+•	Genèse 6,15 : « […] **300 coudées** pour la longueur de l’arche, **50 coudées** pour sa largeur et **30 coudées** pour sa hauteur. »
+•	Lévitique 25,8-10 : « Tu compteras sept sabbats d’années, sept fois sept années, et les jours de ces sept sabbats d’années feront quarante-neuf ans […]. Vous sanctifierez **la 50e année** et publierez la liberté dans le pays pour tous ses habitants […]. »
+•	Luc 3,23 : « Jésus avait environ **30 ans** lorsqu’il commença son ministère […]. »
+•	Daniel 7,25 : « […] les saints seront livrés entre ses mains pendant **un temps, des temps et la moitié d’un temps**. »
+•	Apocalypse 11,2 : « […] elles fouleront aux pieds la ville sainte pendant **quarante-deux mois**. »
+•	Apocalypse 12,6 : « […] afin qu’elle y soit nourrie pendant **mille deux cent soixante jours**. »
+•	2 Pierre 3,11-13 : « Puisque toutes ces choses doivent se dissoudre, quelle ne doit pas être la sainteté de votre conduite et votre piété, tandis que vous attendez et hâtez l’avènement du jour de Dieu, à cause duquel **les cieux enflammés se dissoudront et les éléments embrasés se fondront**. Mais nous attendons, selon sa promesse, de nouveaux cieux et une nouvelle terre où la justice habitera. »
+•	Ésaïe 23,15-18 : « **En ce jour**, Tyr tombera dans l’oubli pendant **soixante-dix ans**, ce que dure la vie d’un roi. Au bout de **soixante-dix ans**, il en sera de Tyr comme de la prostituée dont parle la chanson : “Prends la harpe, parcours la ville, prostituée qu’on oublie ! Joue bien, répète tes chants, pour qu’on se souvienne de toi !” Au bout de **soixante-dix ans**, l’Éternel visitera Tyr, et elle retournera à son salaire impur ; elle se prostituera à tous les royaumes de la terre, sur la face du monde. Mais son gain et son salaire impur seront consacrés à l’Éternel ; ils ne seront ni entassés ni conservés, car son gain fournira à ceux qui habitent devant l’Éternel une nourriture abondante et des vêtements magnifiques. »
+•	Jérémie 25,11-12 : « Tout ce pays deviendra une ruine, un désert, et ces nations seront asservies au roi de Babylone pendant **soixante-dix ans**. Mais lorsque **ces soixante-dix ans** seront accomplis, je châtierai le roi de Babylone et cette nation, dit l’Éternel, à cause de leurs iniquités ; je punirai le pays des Chaldéens et j’en ferai des ruines éternelles. »
+•	Jérémie 29,10 : « Dès que **soixante-dix ans** seront écoulés pour Babylone, je me souviendrai de vous et j’accomplirai à votre égard ma bonne parole, en vous ramenant dans ce lieu. »
+•	2 Chroniques 36,21 : « Afin que s’accomplisse la parole de l’Éternel prononcée par la bouche de Jérémie, le pays jouit de ses sabbats et se reposa pendant tout le temps de sa dévastation, jusqu’à l’accomplissement de **soixante-dix ans**. »
+•	Daniel 9,2 : « La première année de son règne, moi, Daniel, je vis dans les livres qu’il devait s’écouler **soixante-dix ans** pour les ruines de Jérusalem, selon le nombre d’années dont l’Éternel avait parlé à Jérémie, le prophète. »
+Les chapitres suivants examinent ces nombres d’**années, mois, jours**, leurs relations et la conclusion chronologique. 
+La finalité pratique de l’ouvrage est d’inviter l’être humain à examiner sa vie à la lumière de la proximité de la fin de l’univers actuel.
 ## Chapitre 1 Des jours
 ### 1.1 Les textes mis en relation
-Jérémie 31,31-34 annonce que des jours viennent et qu’une alliance nouvelle sera établie après ces jours. Osée 6,2 affirme : « Il nous fait vivre en jours, et le 3e jour il nous relèvera et nous vivrons devant lui. »
-Dans Jérémie, le mot jour apparaît au pluriel dans les expressions « des jours » et « ces jours ». Dans Osée, la formule « en jours » précède la mention du 3e jour.
+Jérémie 31,31-34 annonce que **des jours viennent** et qu’une alliance nouvelle sera établie **après ces jours**. 
+Osée 6,2 affirme : « Il nous fait vivre **en jours**, et **le 3e jour** il nous relèvera et nous vivrons devant lui. »
+Dans Jérémie, le mot **jour** apparaît au pluriel dans les expressions **des jours** et **ces jours**. Dans Osée, la formule **en jours** précède la mention du **3e jour**.
 ### 1.2 Interprétation proposée
-Une question se pose : à combien de jours le pluriel jours renvoie-t-il ici ? Dans la succession « en jours » puis « le 3e jour », les jours désignent les deux premiers jours, suivis du troisième. Il est donc question d’un total de 3 jours prophétiques, répartis en deux groupes : 2 jours puis 1 jour.
-Dans cette lecture, la traduction explicative devient : « Il nous rendra la vie en 2 jours, et le 3e jour il nous relèvera et nous vivrons devant lui. »
+Une question se pose : à combien de **jours**, le pluriel **jours** renvoie-t-il ici ? Dans la succession **en jours** puis **le 3e jour**, **les jours** désignent **les deux premiers jours**, puisqu'ils sont suivis d'un **3ème jour**. Il est donc question d’un total de **3 jours prophétiques**, répartis en deux groupes : **2 jours et 1 jour**.
+Dans cette lecture, la traduction explicative devient : « Il nous rendra la vie **en 2 jours**, et **le 3e jour** il nous relèvera et nous vivrons devant lui. ». 
+C'est d'ailleurs, la traduction généralisé de toutes les versions.
 ## Chapitre 2 Jours et années
-Nombres 14,34 met en correspondance 40 jours d’exploration et 40 ans de conséquences, selon la formule 1 année pour chaque jour. Le texte établit ainsi la règle de conversion suivante :
-1 jour = 1 année
-Apocalypse 11,9 et 11 évoque également trois jours et demi. Ces événements se rapportent à la Révolution française, qui a interdit la religion pendant trois années et demie.
+Nombres 14,34 met en correspondance **40 jours** d’exploration et **40 ans** de conséquences, selon la formule **1 année pour chaque jour**. 
+Le texte établit ainsi la règle de conversion suivante :
+**1 jour = 1 année**
+Apocalypse 11,9 et 11 évoque également **3 jours et demi**. 
+Ces événements se rapportent à la Révolution française, qui a interdit la religion pendant **trois années et demie**.
 ## Chapitre 3 L’arche de Noé
 ### 3.1 Les trois dimensions
-Genèse 6,15 attribue à l’arche trois dimensions : 300 coudées de longueur, 50 coudées de largeur et 30 coudées de hauteur. Ces trois dimensions correspondent à trois durées :
-Dimension de l’arche	Nombre	Correspondance temporelle proposée
-longueur	300 coudées	période totale de 300 ans
-largeur	50 coudées	cycle jubilaire de 50 ans
-hauteur	30 coudées	génération adulte et active de 30 ans
+Genèse 6,15 attribue à l’arche **trois dimensions** : **300 coudées de longueur**, **50 coudées de largeur** et **30 coudées de hauteur**. 
+Ces **trois dimensions** correspondent à **trois durées** :
+Dimension de l’arche	/ Nombre /	Correspondance temporelle proposée
+**longueur	300 coudées** =	**période totale de 300 ans**
+**largeur	50 coudées** =	**cycle jubilaire de 50 ans**
+**hauteur	30 coudées** =	**génération adulte et active de 30 ans**
 ### 3.2 Le nombre 300
-Hénoch marcha avec Dieu pendant 300 ans. La longueur de l’arche, 300 coudées, correspond donc au même nombre. Puisque l’arche fut le moyen du salut de la famille de Noé, elle symbolise également le moyen de salut de l’être humain au temps de la fin. Matthieu 24 établit cette relation entre les jours précédant le déluge et l’avènement du Fils de l’homme, jusqu’au jour où Noé entra dans l’arche.
+Hénoch marcha avec Dieu pendant **300 ans**. **La longueur de l’arche 300 coudées**, correspond donc au même nombre. Puisque l’arche fut le moyen du salut de la famille de Noé, elle symbolise également le moyen de salut de l’être humain au temps de la fin.
+Matthieu 24 établit cette relation entre les jours précédant le déluge et l’avènement du Fils de l’homme, **jusqu’au jour** où Noé entra dans l’arche.
 ### 3.3 Le nombre 50
 Lévitique 25,8-10 ordonne de compter 7 sabbats d’années, soit 7 × 7 années. Les 7 sabbats d’années produisent 49 années, après lesquelles doit être sanctifiée la 50e année. Le texte institue ainsi un cycle jubilaire de 50 ans, adapté à l’échelle de la vie sociale et patrimoniale.
 ### 3.4 Le nombre 30
