@@ -57,7 +57,7 @@ Les traductions sont présentées comme des traductions littérales de l’auteu
 
 •	Nombres 14,34 : « **au nombre de jours** que vous explorez le pays **40 jours**, **jour pour année, jour pour année** vous portez vos péches **40 ans** ... »
 
-•	Genèse 5,22-24 : « Hénoch marche avec Dieu **300** ans […] puis il n'est plus là, car Dieu le prends. »
+•	Genèse 5,22-24 : « Hénoch marche avec Dieu **300 ans** […] puis il n'est plus là, car Dieu le prends. »
 
 •	Matthieu 24,37-39 : « Ce qui arriva aux jours de Noé arrivera de même à l’avènement du Fils de l’homme. Dans **les jours** qui précédèrent le déluge, les hommes mangeaient et buvaient, se mariaient et mariaient leurs enfants, **jusqu’au jour** où Noé entra dans l’arche […]. »
 
@@ -245,5 +245,5 @@ Dès le premier regard, la différence est considérable entre les choses que le
 
 Sans organisation séquentielle, il n’est pas possible de produire des structures stables. Or la stabilité et la reproductibilité constituent le comportement attendu d’un instrument de mesure fonctionnel appliqué à l’étude de l’intelligence du texte.
 
-La question de ce petit livre demeure ainsi posée : si toutes les choses d’aujourd’hui et des 134 années à venir doivent alors disparaître, vers quoi devons-nous revenir avec un respect juste et inalienable ?
+La question de ce petit livre demeure ainsi posée : si toutes les choses d’aujourd’hui et des 134 années à venir doivent alors disparaître, vers quoi devons-nous revenir avec un respect juste et inaliénable ?
 
